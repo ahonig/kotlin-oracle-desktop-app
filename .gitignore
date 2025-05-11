@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .kotlin
 .gradle
@@ -16,3 +17,20 @@ captures
 !*.xcodeproj/project.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
+=======
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+>>>>>>> 2407d4c1dc547e0d083b35ce69a3566f0d9fe6b8
